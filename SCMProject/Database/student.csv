@@ -1,0 +1,21 @@
+ID,First Name,Last Name,Birth Date,Is Active,Age,GPA,Tuition Fee,Email
+1,Bence,Nagy,2005-03-24,False,30,4.71,186470.71,bence.nagy@gmail.com
+2,Anna,Tóth,1988-07-11,True,25,4.78,300510.87,anna.tóth@yahoo.com
+3,Erika,Kovács,1992-07-09,False,28,3.29,215511.21,erika.kovács@elte.hu
+4,Tamás,Kovács,1978-04-24,False,20,2.46,292200.03,tamás.kovács@gmail.com
+5,Bence,Varga,2007-11-20,False,20,3.18,338946.58,bence.varga@sote.hu
+6,Erika,Kovács,1996-09-05,True,27,4.73,252969.54,erika.kovács@corvinus.hu
+7,Bence,Nagy,1975-02-20,True,25,3.83,353564.94,bence.nagy@sote.hu
+8,Bence,Nagy,1986-07-12,True,22,3.87,496726.15,bence.nagy@sote.hu
+9,Anna,Kovács,1979-12-07,False,18,3.35,185118.8,anna.kovács@outlook.com
+10,Bence,Horváth,1972-03-06,False,28,3.56,269772.65,bence.horváth@sote.hu
+11,Bence,Szabó,2005-04-23,False,30,2.17,148341.22,bence.szabó@elte.hu
+12,Gábor,Szabó,2008-03-28,False,20,3.63,457780.48,gábor.szabó@sote.hu
+13,Erika,Kovács,1994-10-10,True,28,2.74,188711.19,erika.kovács@corvinus.hu
+14,Bence,Kovács,2006-07-31,False,29,3.87,218222.36,bence.kovács@elte.hu
+15,Gábor,Kovács,1975-06-19,True,29,2.9,427160.41,gábor.kovács@elte.hu
+16,Erika,Varga,1989-09-05,True,30,2.17,177297.45,erika.varga@corvinus.hu
+17,Tamás,Kovács,1996-09-18,True,22,2.73,388978.94,tamás.kovács@sote.hu
+18,Gábor,Horváth,1987-09-26,True,18,4.2,284538.19,gábor.horváth@yahoo.com
+19,Anna,Nagy,2001-12-14,False,24,2.32,165157.46,anna.nagy@gmail.com
+20,Bence,Kovács,2008-07-27,False,21,4.06,437523.46,bence.kovács@sote.hu
