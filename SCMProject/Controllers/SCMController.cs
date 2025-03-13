@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using SCMProject.Models;
+using SCMProject.Services;
 
 namespace SCMProject.Controllers
 {
@@ -8,12 +9,16 @@ namespace SCMProject.Controllers
     [ApiController]
     public class SCMController : ControllerBase
     {
-        private readonly ScmContext _context = new();
+        private readonly IStudentService _studentService;
+        public SCMController(IStudentService studentService)
+        {
+            _studentService=studentService;
+        }
 
         [HttpGet]
         public IActionResult GetAllStudent()
         {
-            return Ok(_context.Students);
+            return Ok(_studentService.GetAllStudents());
         }
     }
 }
